@@ -1,0 +1,1 @@
+{"version":3,"file":"mainReducer.js","sourceRoot":"","sources":["../src/mainReducer.ts"],"names":[],"mappings":";AAAA,sBAAgC,OAAO,CAAC,CAAA;AACxC,8BAAgC,iBAAiB,CAAC,CAAA;AAGrC,uBAAe,GAAG,UAAC,aAAiB;IAC/C,8CAA8C;IAC9C,EAAE,CAAA,CAAC,CAAC,aAAa,CAAC,QAAQ,CAAC,CAAC,CAAC;QAC5B,aAAa,CAAC,QAAQ,GAAG,+BAAe,CAAA;IACzC,CAAC;IAEF,MAAM,CAAC,uBAAe,CAAC,aAAa,CAAC,CAAC;AACvC,CAAC,CAAA"}
